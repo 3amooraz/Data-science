@@ -8,4 +8,4 @@ for x in range(num):
     Phone.append(input("Enter student's Phone Number : "))
 print (names)
 print (IDs)
-print (lastnames)
+print (Phone)
